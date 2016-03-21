@@ -1,4 +1,4 @@
-activator-akka-scala-seed
+Scala: a gentle intro
 =========================
 
-A minimal seed template for an Akka with Scala build 
+Slides and minimal project for live coding to show Scala language basics
