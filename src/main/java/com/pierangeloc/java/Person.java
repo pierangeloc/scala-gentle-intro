@@ -1,4 +1,4 @@
-package com.pierangeloc;
+package com.pierangeloc.java;
 
 public class Person {
 
