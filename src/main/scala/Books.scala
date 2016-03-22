@@ -1,5 +1,3 @@
-package com.pierangeloc
-
 import scala.io.Source
 import scala.util.matching.Regex
 

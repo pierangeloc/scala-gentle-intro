@@ -1,10 +1,7 @@
-package com.pierangeloc
-
 import akka.actor.ActorSystem
+import akka.pattern._
 
 import scala.concurrent.Future
-
-import akka.pattern._
 import scala.concurrent.duration._
 
 /**
@@ -58,4 +55,6 @@ object Pasta {
     }
   }
 
+
+  def chore() = println("Choring")
 }
